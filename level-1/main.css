@@ -1,0 +1,21 @@
+body {
+    background-color: #c3cfe2;
+}
+
+.header {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #fff;
+}
+
+.photo {
+    border-radius: 100%;
+    
+
+}
+
+.footer {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: #686de0;
+}
