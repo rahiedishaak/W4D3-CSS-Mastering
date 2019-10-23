@@ -35,13 +35,12 @@ img {
   justify-content: center;
   align-items: center;
   border-radius: 10px;
-  transition: 2s all;
   visibility: hidden;
+  transition: transform 3s ease;
 }
 
 img:hover + .hoverDiv {
   visibility: visible;
-  transition: 2s all;
 }
 
 @media screen and (max-width: 1000px) {
